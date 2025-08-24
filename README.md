@@ -18,3 +18,9 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 //////
 sudo usermod -aG docker $USER
+
+
+
+
+install node 
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04
